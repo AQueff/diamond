@@ -1,4 +1,3 @@
-```
 title: Southern African Field Archaeology
 subtitle: NA
 model: diamond
@@ -9,4 +8,3 @@ issn: 2789-1844
 publisher: University of Johannesburg and Wenner-Gren Foundation
 languages : 
 -  en
-```

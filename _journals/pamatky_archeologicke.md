@@ -1,4 +1,3 @@
-```
 title: Pamatky Archeologicke
 subtitle: NA
 model: diamond
@@ -12,4 +11,3 @@ languages :
 -  cz
 -  de
 -  sl
-```

@@ -1,4 +1,3 @@
-```
 title: Revue archéologique de l'Est
 subtitle: NA
 model: diamond
@@ -9,4 +8,3 @@ issn: 1760-7264
 publisher: OpenEdition - Société archéologique de l’Est
 languages : 
 -  fr
-```

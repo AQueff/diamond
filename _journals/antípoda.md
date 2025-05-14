@@ -1,4 +1,3 @@
-```
 title: Antípoda
 subtitle: Revista de Antropología y Arqueología
 model: diamond
@@ -11,4 +10,3 @@ languages :
 -  en
 -  es
 -  pt
-```

@@ -1,4 +1,3 @@
-```
 title: Theoretical Roman Archaeology Journal
 subtitle: NA
 model: diamond
@@ -9,4 +8,3 @@ issn: 2515-2289
 publisher: Open Library of Humanities - Theoretical Roman Archaeology Conference
 languages : 
 -  en
-```

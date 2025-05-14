@@ -1,4 +1,3 @@
-```
 title: Anthropozoologica
 subtitle: NA
 model: diamond
@@ -10,4 +9,3 @@ publisher: Museum National d'Histoire Naturelle
 languages : 
 -  fr
 -  en
-```

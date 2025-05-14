@@ -1,4 +1,3 @@
-```
 title: Trabajos de Prehistoria
 subtitle: NA
 model: diamond
@@ -11,4 +10,3 @@ languages :
 -  en
 -  es
 -  fr
-```

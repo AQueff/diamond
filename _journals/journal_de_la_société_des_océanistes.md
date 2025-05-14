@@ -1,4 +1,3 @@
-```
 title: Journal de la Société des Océanistes
 subtitle: NA
 model: diamond
@@ -10,4 +9,3 @@ publisher: OpenEdition - Société des Océanistes
 languages : 
 -  fr
 -  en
-```

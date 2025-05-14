@@ -1,4 +1,3 @@
-```
 title: EXARC Journal
 subtitle: NA
 model: diamond
@@ -9,4 +8,3 @@ issn: 2212-8956
 publisher: EXARC
 languages : 
 -  en
-```

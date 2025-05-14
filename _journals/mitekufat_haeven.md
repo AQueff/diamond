@@ -1,4 +1,3 @@
-```
 title: Mitekufat Haeven
 subtitle: Journal of the Israel Prehistoric Society
 model: subscription
@@ -10,4 +9,3 @@ publisher: Israel Prehistoric Society
 languages : 
 -  en
 -  fr
-```

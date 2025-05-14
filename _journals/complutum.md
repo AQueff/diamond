@@ -1,4 +1,3 @@
-```
 title: Complutum
 subtitle: NA
 model: diamond
@@ -10,4 +9,3 @@ publisher: Universidad Complutense
 languages : 
 -  en
 -  es
-```

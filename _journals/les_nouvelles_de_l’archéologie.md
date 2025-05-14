@@ -1,4 +1,3 @@
-```
 title: Les Nouvelles de l’Archéologie
 subtitle: NA
 model: diamond
@@ -10,4 +9,3 @@ publisher: OpenEdition - Éditions de la Maison des sciences de l’homme
 languages : 
 -  fr
 -  en
-```

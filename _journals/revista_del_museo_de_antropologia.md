@@ -1,4 +1,3 @@
-```
 title: Revista del Museo de Antropologia
 subtitle: NA
 model: diamond
@@ -11,4 +10,3 @@ languages :
 -  en
 -  es
 -  pt
-```

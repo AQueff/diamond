@@ -1,4 +1,3 @@
-```
 title: Vestnik Archeologii, Antropologii i Etnografii
 subtitle: NA
 model: diamond
@@ -10,4 +9,3 @@ publisher: Tyumen Scientific Centre SB RAS
 languages : 
 -  ru
 -  en
-```

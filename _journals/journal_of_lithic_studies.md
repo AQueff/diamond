@@ -1,4 +1,3 @@
-```
 title: Journal of Lithic Studies
 subtitle: NA
 model: diamond
@@ -9,4 +8,3 @@ issn: 2055-0472
 publisher: University of Edinburgh
 languages : 
 -  en
-```

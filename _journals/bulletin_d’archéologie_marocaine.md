@@ -1,4 +1,3 @@
-```
 title: Bulletin d’Archéologie Marocaine
 subtitle: NA
 model: diamond
@@ -12,4 +11,3 @@ languages :
 -  ar
 -  fr
 -  es
-```

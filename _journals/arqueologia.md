@@ -1,4 +1,3 @@
-```
 title: Arqueologia
 subtitle: NA
 model: diamond
@@ -10,4 +9,3 @@ publisher: Instituto de Arqueología, Facultad de Filosofía y Letras, Universid
 languages : 
 -  en
 -  es
-```

@@ -1,4 +1,3 @@
-```
 title: Préhistoires méditerranéennes
 subtitle: NA
 model: diamond
@@ -10,4 +9,3 @@ publisher: OpenEdition - Laboratoire méditerranéen de Préhistoire Europe Afri
 languages : 
 -  fr
 -  en
-```

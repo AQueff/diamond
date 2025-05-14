@@ -1,4 +1,3 @@
-```
 title: Archaeofauna
 subtitle: NA
 model: diamond
@@ -12,4 +11,3 @@ languages :
 -  es
 -  fr
 -  de
-```

@@ -1,4 +1,3 @@
-```
 title: Journal of the National Museum (Prague), Natural History Series
 subtitle: NA
 model: diamond
@@ -9,4 +8,3 @@ issn: 1802-6842
 publisher: National Museum of Prague
 languages : 
 -  en
-```

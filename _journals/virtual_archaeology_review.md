@@ -1,4 +1,3 @@
-```
 title: Virtual Archaeology Review
 subtitle: NA
 model: diamond
@@ -10,4 +9,3 @@ publisher: PoliPapers - Universitat Politecnica de Valencia
 languages : 
 -  en
 -  es
-```

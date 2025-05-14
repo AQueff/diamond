@@ -1,4 +1,3 @@
-```
 title: Comechingonia, Revista de Arqueología
 subtitle: NA
 model: diamond
@@ -11,4 +10,3 @@ languages :
 -  en
 -  es
 -  pt
-```

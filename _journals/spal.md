@@ -1,4 +1,3 @@
-```
 title: SPAL
 subtitle: Revista de Prehistoria y Arqueología
 model: diamond
@@ -10,4 +9,3 @@ publisher: Universidad de Sevilla
 languages : 
 -  es
 -  en
-```

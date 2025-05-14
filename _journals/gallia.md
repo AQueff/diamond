@@ -1,4 +1,3 @@
-```
 title: Gallia
 subtitle: NA
 model: diamond
@@ -9,4 +8,3 @@ issn: 0016-4119
 publisher: CNRS
 languages : 
 -  fr
-```

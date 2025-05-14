@@ -1,4 +1,3 @@
-```
 title: Gallia Préhistoire
 subtitle: NA
 model: diamond
@@ -10,4 +9,3 @@ publisher: OpenEdition - CNRS
 languages : 
 -  fr
 -  en
-```

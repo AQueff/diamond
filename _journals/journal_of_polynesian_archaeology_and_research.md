@@ -1,4 +1,3 @@
-```
 title: Journal of Polynesian Archaeology and Research
 subtitle: NA
 model: diamond
@@ -9,4 +8,3 @@ issn: NA
 publisher: University of Hawai'i Press - Easter Island Foundation + Society for Hawaiian Archaeology
 languages : 
 -  en
-```

@@ -1,4 +1,3 @@
-```
 title: BEADS
 subtitle: Journal of the Society of Bead Researchers
 model: subscription
@@ -9,4 +8,3 @@ issn: 0843-5499
 publisher: The Society of Bead Researchers
 languages : 
 -  en
-```

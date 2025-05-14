@@ -1,4 +1,3 @@
-```
 title: Munibe Antropologia-Arkeologia
 subtitle: NA
 model: diamond
@@ -10,4 +9,3 @@ publisher: Sociedad de Ciencias Aranzadi Research Centre
 languages : 
 -  es
 -  en
-```

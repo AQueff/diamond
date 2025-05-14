@@ -1,4 +1,3 @@
-```
 title: Eventum
 subtitle: A journal of Medieval Arts and Rituals
 model: diamond
@@ -9,4 +8,3 @@ issn: 2975-0989
 publisher: Milano University Press - University of Cyprus
 languages : 
 -  en
-```

@@ -1,4 +1,3 @@
-```
 title: Archéopages
 subtitle: NA
 model: diamond
@@ -9,4 +8,3 @@ issn: 1622-8545
 publisher: OpenEdition - INRAP
 languages : 
 -  fr
-```

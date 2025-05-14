@@ -1,4 +1,3 @@
-```
 title: Boletin del Museo Chileno de Arte Precolombino
 subtitle: NA
 model: diamond
@@ -10,4 +9,3 @@ publisher: Universidad Adolfo Ibanez
 languages : 
 -  en
 -  es
-```

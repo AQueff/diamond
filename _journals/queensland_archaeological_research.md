@@ -1,4 +1,3 @@
-```
 title: Queensland Archaeological Research
 subtitle: NA
 model: diamond
@@ -9,4 +8,3 @@ issn: 0814-3021
 publisher: James Cook University - College of Arts, Society and Education
 languages : 
 -  en
-```

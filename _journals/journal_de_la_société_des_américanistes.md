@@ -1,4 +1,3 @@
-```
 title: Journal de la Société des Américanistes
 subtitle: NA
 model: diamond
@@ -12,4 +11,3 @@ languages :
 -  en
 -  es
 -  pt
-```

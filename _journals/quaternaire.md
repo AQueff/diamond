@@ -1,4 +1,3 @@
-```
 title: Quaternaire
 subtitle: NA
 model: diamond
@@ -10,4 +9,3 @@ publisher: Association française pour l'étude du quaternaire
 languages : 
 -  fr
 -  en
-```

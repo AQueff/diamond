@@ -1,4 +1,3 @@
-```
 title: Bulletins et mémoires de la Société d’Anthropologie de Paris
 subtitle: NA
 model: diamond
@@ -10,4 +9,3 @@ publisher: OpenEdition - Société d'Anthropologie de Paris
 languages : 
 -  fr
 -  en
-```

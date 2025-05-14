@@ -1,4 +1,3 @@
-```
 title: Current Swedish Archaeology
 subtitle: NA
 model: diamond
@@ -9,4 +8,3 @@ issn: 2002-3901
 publisher: Swedish Archaeological Society
 languages : 
 -  en
-```

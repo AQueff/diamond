@@ -1,4 +1,3 @@
-```
 title: Estudos do Quaternario
 subtitle: NA
 model: diamond
@@ -11,4 +10,3 @@ languages :
 -  en
 -  pt
 -  es
-```

@@ -1,4 +1,3 @@
-```
 title: Anthropologica et Praehistorica
 subtitle: NA
 model: diamond
@@ -14,4 +13,3 @@ languages :
 -  nl
 -  es
 -  it
-```

@@ -1,4 +1,3 @@
-```
 title: Documenta Praehistorica
 subtitle: NA
 model: diamond
@@ -9,4 +8,3 @@ issn: 1408-967X
 publisher: University of Ljubljana Press - Scientific Research Institute of the Faculty Of Arts
 languages : 
 -  en
-```

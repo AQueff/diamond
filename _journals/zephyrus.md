@@ -1,4 +1,3 @@
-```
 title: Zephyrus
 subtitle: NA
 model: diamond
@@ -11,4 +10,3 @@ languages :
 -  es
 -  en
 -  fr
-```

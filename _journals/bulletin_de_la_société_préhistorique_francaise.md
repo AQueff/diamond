@@ -1,4 +1,3 @@
-```
 title: Bulletin de la Société Préhistorique Francaise
 subtitle: NA
 model: diamond
@@ -13,4 +12,3 @@ languages :
 -  it
 -  fr
 -  es
-```

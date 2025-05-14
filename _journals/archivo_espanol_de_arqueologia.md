@@ -1,4 +1,3 @@
-```
 title: Archivo Espanol de Arqueologia
 subtitle: NA
 model: diamond
@@ -14,4 +13,3 @@ languages :
 -  pt
 -  de
 -  it
-```

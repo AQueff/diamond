@@ -1,4 +1,3 @@
-```
 title: Lucentum
 subtitle: NA
 model: diamond
@@ -13,4 +12,3 @@ languages :
 -  fr
 -  it
 -  pt
-```

@@ -1,4 +1,3 @@
-```
 title: Journal of Iran National Museum
 subtitle: NA
 model: diamond
@@ -10,4 +9,3 @@ publisher: Iran National Museum
 languages : 
 -  en
 -  fa
-```
